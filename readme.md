@@ -22,7 +22,7 @@
    npm start
 
 ## Структура проекта
-   ```lua
+   ```plaintext
    /real-estate
    |-- /sass
    |-- /css
